@@ -2,13 +2,15 @@
 
 In this repository we present three notebooks with very useful examples to become familiar with what the python gradgpad package allows us to do.
 
-### 💻 Command Line Example  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb)
+## 💻 Command Line Example  
 
-### 🏫 Foundation Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
+The gradgpad package provides a number of command line options, you can test it using the following binder environment: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb)
 
-### 🏫 Visualization Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
+## 🏫 Foundation Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
 
-## 📺 Video
+## 📈 Visualization Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
+
+## 📺 Video
 
 Coming soon!
 
