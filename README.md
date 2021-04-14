@@ -23,7 +23,7 @@ This tutorial cover the basics of dealing with data, metrics and results using t
 
 ## 📈 Visualization Example 
 
-Notebook available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_visualization.ipynb)
+Notebook available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_visualizations.ipynb)
 
 ## 📺 Video
 
