@@ -4,26 +4,42 @@ In this repository we present three notebooks with very useful examples to becom
 
 ## 💻 Command Line Example  
 
-The gradgpad package provides a number of command line options, you can test it using the following binder environment: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb)
+The gradgpad package provides a number of command line options.
+
+Notebook 📔:
+* [gradgpad_cli.ipynb](gradgpad_cli.ipynb)
+* Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb)
 
 ## 🏫 Foundation Example 
 
 The gradgpad framework povides Python tooling to ease face-PAD research.
 
-This tutorial cover the basics of dealing with data, metrics and results using the gradgpad package: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
+This tutorial cover the basics of dealing with data, metrics and results using the gradgpad package.
 
-* Software Design 
-* Installation 
-* Import gradgpad
 * Annotations
 * Scores
 * Standard Metrics
 * Generalization Metrics
 * Results
 
+Notebook 📔:
+* [gradgpad_foundations.ipynb](gradgpad_foundations.ipynb)
+* Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
+
 ## 📈 Visualization Example 
 
-Notebook available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_visualizations.ipynb)
+The `gradgpad` framework povides Python tooling to create novel visualization graphs to ease research pipeline and fair comparision on face-PAD topic.
+
+This tutorial is a detailed description of main visualizations available in gradgpad. Additionaly, thanks to ipywidgets standard module we can interact with visualizations.
+
+* Histogram Plotter
+* DET Plotter
+* PAD Radar Plotter
+* Bias Percentiles Plotter
+
+Notebook 📔:
+* [gradgpad_visualizations.ipynb](gradgpad_visualizations.ipynb)
+* Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_visualizations.ipynb)
 
 ## 📺 Video
 
