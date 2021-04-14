@@ -4,11 +4,26 @@ In this repository we present three notebooks with very useful examples to becom
 
 ## 💻 Command Line Example  
 
-The gradgpad package provides a number of command line options, you can test it using the following binder environment: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb)
+The gradgpad package provides a number of command line options, you can test it using the following binder environment: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb){:target="_blank"}
 
-## 🏫 Foundation Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
+## 🏫 Foundation Example 
 
-## 📈 Visualization Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
+The gradgpad framework povides Python tooling to ease face-PAD research.
+
+This tutorial cover the basics of dealing with data, metrics and results using the gradgpad package: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb){:target="_blank"}
+
+* Software Design 
+* Installation 
+* Import gradgpad
+* Annotations
+* Scores
+* Standard Metrics
+* Generalization Metrics
+* Results
+
+
+
+## 📈 Visualization Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb){:target="_blank"}
 
 ## 📺 Video
 
