@@ -10,7 +10,7 @@ The gradgpad package provides a number of command line options, you can test it 
 
 The gradgpad framework povides Python tooling to ease face-PAD research.
 
-This tutorial cover the basics of dealing with data, metrics and results using the gradgpad package: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb){:target="_blank"}
+This tutorial cover the basics of dealing with data, metrics and results using the gradgpad package: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
 
 * Software Design 
 * Installation 
@@ -21,9 +21,9 @@ This tutorial cover the basics of dealing with data, metrics and results using t
 * Generalization Metrics
 * Results
 
+## 📈 Visualization Example 
 
-
-## 📈 Visualization Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb){:target="_blank"}
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb){:target="_blank"}
 
 ## 📺 Video
 
