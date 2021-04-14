@@ -42,6 +42,7 @@ Notebook 📔:
 * Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_visualizations.ipynb)
 
 PAD-radar example 🚀
+
 <img src="https://github.com/acostapazo/gradgpad/blob/master/samples/pad_radar.gif" alt="PAD-Radar Example" width="400"/>
 
 ## 📺 Video
