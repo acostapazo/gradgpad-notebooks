@@ -1,6 +1,6 @@
 # The GRAD-GPAD framework 🗿 (Notebooks 📔)
 
-In this repository we present three notebooks with very useful examples to become familiar with what the python gradgpad package allows us to do.
+In this repository we present three notebooks with very useful examples to become familiar with what the python [gradgpad](https://github.com/acostapazo/gradgpad) package allows us to do.
 
 ## 💻 Command Line Example  
 
