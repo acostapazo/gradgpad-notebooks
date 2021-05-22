@@ -6,9 +6,7 @@ In this repository we present three notebooks with very useful examples to becom
 
 The gradgpad package provides a number of command line options.
 
-Notebook 📔:
-* [gradgpad_cli.ipynb](gradgpad_cli.ipynb)
-* Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb)
+Notebook 📔 → [gradgpad_cli.ipynb](gradgpad_cli.ipynb) → Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb)
 
 ## 🏫 Foundation Example 
 
@@ -22,9 +20,7 @@ This tutorial cover the basics of dealing with data, metrics and results using t
 * Generalization Metrics
 * Results
 
-Notebook 📔:
-* [gradgpad_foundations.ipynb](gradgpad_foundations.ipynb)
-* Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
+Notebook 📔 → [gradgpad_foundations.ipynb](gradgpad_foundations.ipynb) → Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
 
 ## 📈 Visualization Example 
 
@@ -37,9 +33,7 @@ This tutorial is a detailed description of main visualizations available in grad
 * PAD Radar Plotter
 * Bias Percentiles Plotter
 
-Notebook 📔:
-* [gradgpad_visualizations.ipynb](gradgpad_visualizations.ipynb)
-* Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_visualizations.ipynb)
+Notebook 📔 → [gradgpad_visualizations.ipynb](gradgpad_visualizations.ipynb) → Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_visualizations.ipynb)
 
 PAD-radar example 🚀
 
