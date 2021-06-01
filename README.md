@@ -2,6 +2,10 @@
 
 In this repository we present three notebooks with very useful examples to become familiar with what the python [gradgpad](https://github.com/acostapazo/gradgpad) package allows us to do.
 
+## 📺 Video Tutorial
+
+[![Tutorial](https://img.youtube.com/vi/y5lQox0hmGU/0.jpg)](https://www.youtube.com/watch?v=y5lQox0hmGU)
+
 ## 💻 Command Line Example  
 
 The gradgpad package provides a number of command line options.
@@ -39,9 +43,6 @@ PAD-radar example 🚀
 
 <img src="https://github.com/acostapazo/gradgpad/blob/master/samples/pad_radar.gif" alt="PAD-Radar Example" width="400"/>
 
-## 📺 Video
-
-Coming soon!
 
 ## 🤔 Contributing
 
