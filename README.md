@@ -6,26 +6,6 @@ In this repository we present three notebooks with very useful examples to becom
 
 [![Tutorial](https://img.youtube.com/vi/y5lQox0hmGU/0.jpg)](https://www.youtube.com/watch?v=y5lQox0hmGU)
 
-## 💻 Command Line Example  
-
-The gradgpad package provides a number of command line options.
-
-Notebook 📔 → [gradgpad_cli.ipynb](gradgpad_cli.ipynb) → Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb)
-
-## 🏫 Foundation Example 
-
-The gradgpad framework povides Python tooling to ease face-PAD research.
-
-This tutorial cover the basics of dealing with data, metrics and results using the gradgpad package.
-
-* Annotations
-* Scores
-* Standard Metrics
-* Generalization Metrics
-* Results
-
-Notebook 📔 → [gradgpad_foundations.ipynb](gradgpad_foundations.ipynb) → Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
-
 ## 📈 Visualization Example 
 
 The `gradgpad` framework povides Python tooling to create novel visualization graphs to ease research pipeline and fair comparision on face-PAD topic.
@@ -42,6 +22,28 @@ Notebook 📔 → [gradgpad_visualizations.ipynb](gradgpad_visualizations.ipynb)
 PAD-radar example 🚀
 
 <img src="https://github.com/acostapazo/gradgpad/blob/master/samples/pad_radar.gif" alt="PAD-Radar Example" width="400"/>
+
+## 🏫 Foundation Example 
+
+The gradgpad framework povides Python tooling to ease face-PAD research.
+
+This tutorial cover the basics of dealing with data, metrics and results using the gradgpad package.
+
+* Annotations
+* Scores
+* Standard Metrics
+* Generalization Metrics
+* Results
+
+Notebook 📔 → [gradgpad_foundations.ipynb](gradgpad_foundations.ipynb) → Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_foundations.ipynb)
+
+## 💻 Command Line Example  
+
+The gradgpad package provides a number of command line options.
+
+Notebook 📔 → [gradgpad_cli.ipynb](gradgpad_cli.ipynb) → Online available in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acostapazo/gradgpad-notebooks/HEAD?filepath=gradgpad_cli.ipynb)
+
+
 
 
 ## 🤔 Contributing
